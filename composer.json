@@ -1,6 +1,6 @@
 {
-    "name": "kwn/php-rdkafka-stubs",
-    "description": "Rdkafka extension stubs for your IDE",
+    "name": "gfg/php-rdkafka-stubs",
+    "description": "Rdkafka extension stubs for your IDE. Replace it with kwn/php-rdkafka-stubs as soon as its maintainers update it to support v5 or 6",
     "license": "MIT",
     "authors": [
         {
@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "ext-rdkafka": ">=4.0"
+        "ext-rdkafka": ">=5.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.2.4"
